@@ -1,0 +1,12 @@
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\bin\Debug\StoneEditor.exe
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\bin\Debug\StoneEditor.pdb
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\obj\x86\Debug\StoneEditor.Form1.resources
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\obj\x86\Debug\StoneEditor.Properties.Resources.resources
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\obj\x86\Debug\StoneEditor.exe
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\obj\x86\Debug\StoneEditor.pdb
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\bin\Debug\StoneEngine.dll
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\bin\Debug\StoneEngine.pdb
+G:\Programming\Stoneforge\Stoneforge\StoneEditor\bin\Debug\Content\Selection.png

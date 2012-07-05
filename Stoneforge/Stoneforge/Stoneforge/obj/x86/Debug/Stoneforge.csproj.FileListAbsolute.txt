@@ -1,0 +1,14 @@
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Stoneforge.exe
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Stoneforge.pdb
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\obj\x86\Debug\Stoneforge.exe
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\obj\x86\Debug\Stoneforge.pdb
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\StoneEngine.dll
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\StoneEngine.pdb
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Content\Sprites\Dwarf.xnb
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Content\Tiles\Grass.xnb
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Content\Map\Grass.layer
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Content\Tiles\Dirt.xnb
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Content\Map\Base.layer
+G:\Programming\Stoneforge\Stoneforge\Stoneforge\Stoneforge\bin\x86\Debug\Content\Map\Map.map

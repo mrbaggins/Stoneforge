@@ -1,0 +1,6 @@
+G:\Programming\Stoneforge\Stoneforge\StoneEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Stoneforge\Stoneforge\StoneEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Stoneforge\Stoneforge\StoneEngine\bin\x86\Debug\StoneEngine.dll
+G:\Programming\Stoneforge\Stoneforge\StoneEngine\bin\x86\Debug\StoneEngine.pdb
+G:\Programming\Stoneforge\Stoneforge\StoneEngine\obj\x86\Debug\StoneEngine.dll
+G:\Programming\Stoneforge\Stoneforge\StoneEngine\obj\x86\Debug\StoneEngine.pdb
